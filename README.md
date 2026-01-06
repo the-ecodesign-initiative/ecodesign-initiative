@@ -1,1 +1,2 @@
-# ecodesign-initiative
+- website created for the EcoDesign Initiative, a non-profit focused on empowering young innovators and engineers to design sustainable solutions for the future
+- created by sh
